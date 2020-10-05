@@ -1,0 +1,2 @@
+source /etc/profile.d/gradle.sh
+https://github.com/springframeworkguru

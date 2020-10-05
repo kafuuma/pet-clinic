@@ -1,13 +1,13 @@
-package henry.springframework.petclininc;
+package henry.springframework.petclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PetClinincApplication {
+public class PetClinicApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PetClinincApplication.class, args);
+        SpringApplication.run(PetClinicApplication.class, args);
     }
 
 }
