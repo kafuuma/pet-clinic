@@ -52,9 +52,9 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:https://github.com/kafuuma/pet-clinic.git</developerConnection>
-        <connection>scm:git:https://github.com/kafuuma/pet-clinic.git</connection>
-        <url>scm:git:https://github.com/kafuuma/pet-clinic.git</url>
+        <developerConnection>scm:git:https://kafuuma:#kafuuma1#@github.com/kafuuma/pet-clinic.git</developerConnection>
+        <connection>scm:git:https://kafuuma:#kafuuma1#@github.com/kafuuma/pet-clinic.git</connection>
+<!--        <url>scm:git:https://github.com/kafuuma/pet-clinic.git</url>-->
     </scm>
 
 </project>
