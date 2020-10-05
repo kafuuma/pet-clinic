@@ -1,5 +1,14 @@
 henry/springframework/petclinic/model/Owner.class
+henry/springframework/petclinic/model/Person.class
+henry/springframework/petclinic/services/VetService.class
+henry/springframework/petclinic/services/OwnerService.class
+henry/springframework/petclinic/services/PetService.class
+henry/springframework/petclinic/services/map/PetServiceMap.class
+henry/springframework/petclinic/services/map/OwnerServiceMap.class
 henry/springframework/petclinic/model/PetType.class
+henry/springframework/petclinic/model/BaseEntity.class
+henry/springframework/petclinic/services/map/VetServiceMap.class
+henry/springframework/petclinic/services/map/AbstractMapService.class
+henry/springframework/petclinic/services/CrudService.class
 henry/springframework/petclinic/model/Vet.class
 henry/springframework/petclinic/model/Pet.class
-henry/springframework/petclinic/model/Person.class

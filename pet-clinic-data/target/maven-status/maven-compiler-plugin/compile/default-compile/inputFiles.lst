@@ -1,5 +1,14 @@
-/home/henry/projects/pet-clinic/pet-clinic-data/src/main/java/henry/springframework/petclinic/model/Owner.java
-/home/henry/projects/pet-clinic/pet-clinic-data/src/main/java/henry/springframework/petclinic/model/Person.java
+/home/henry/projects/pet-clinic/pet-clinic-data/src/main/java/henry/springframework/petclinic/services/OwnerService.java
+/home/henry/projects/pet-clinic/pet-clinic-data/src/main/java/henry/springframework/petclinic/services/map/OwnerServiceMap.java
+/home/henry/projects/pet-clinic/pet-clinic-data/src/main/java/henry/springframework/petclinic/services/map/VetServiceMap.java
+/home/henry/projects/pet-clinic/pet-clinic-data/src/main/java/henry/springframework/petclinic/services/map/PetServiceMap.java
 /home/henry/projects/pet-clinic/pet-clinic-data/src/main/java/henry/springframework/petclinic/model/PetType.java
 /home/henry/projects/pet-clinic/pet-clinic-data/src/main/java/henry/springframework/petclinic/model/Vet.java
 /home/henry/projects/pet-clinic/pet-clinic-data/src/main/java/henry/springframework/petclinic/model/Pet.java
+/home/henry/projects/pet-clinic/pet-clinic-data/src/main/java/henry/springframework/petclinic/services/VetService.java
+/home/henry/projects/pet-clinic/pet-clinic-data/src/main/java/henry/springframework/petclinic/model/BaseEntity.java
+/home/henry/projects/pet-clinic/pet-clinic-data/src/main/java/henry/springframework/petclinic/services/PetService.java
+/home/henry/projects/pet-clinic/pet-clinic-data/src/main/java/henry/springframework/petclinic/model/Owner.java
+/home/henry/projects/pet-clinic/pet-clinic-data/src/main/java/henry/springframework/petclinic/model/Person.java
+/home/henry/projects/pet-clinic/pet-clinic-data/src/main/java/henry/springframework/petclinic/services/map/AbstractMapService.java
+/home/henry/projects/pet-clinic/pet-clinic-data/src/main/java/henry/springframework/petclinic/services/CrudService.java
