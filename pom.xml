@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>henry.springframework</groupId>
     <artifactId>pet-clininc</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>pet-clininc</name>
     <description>Pet Clinic application</description>
 
@@ -55,7 +55,7 @@
         <developerConnection>scm:git:https://kafuuma:#kafuuma1#@github.com/kafuuma/pet-clinic.git</developerConnection>
         <connection>scm:git:https://kafuuma:#kafuuma1#@github.com/kafuuma/pet-clinic.git</connection>
         <url>scm:git:https://kafuuma:#kafuuma1#github.com/kafuuma/pet-clinic.git</url>
-      <tag>pet-clininc-0.0.1</tag>
+      <tag>pet-clininc-0.0.2</tag>
   </scm>
 
 </project>
