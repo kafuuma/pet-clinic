@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>henry.springframework</groupId>
     <artifactId>pet-clininc</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>pet-clininc</name>
     <description>Pet Clinic application</description>
 
@@ -46,6 +46,7 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <configuration>
                     <goals>install</goals>
+                    <autoVersionSubmodules>true</autoVersionSubmodules>
                 </configuration>
             </plugin>
         </plugins>
