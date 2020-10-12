@@ -3,13 +3,15 @@ package henry.springframework.petclinic.services.map;
 import henry.springframework.petclinic.model.Pet;
 import henry.springframework.petclinic.services.CrudService;
 import henry.springframework.petclinic.services.PetService;
+import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 
 import java.util.HashMap;
 import java.util.Set;
 
 @Service
-public class PetServiceMap extends AbstractMapService<Pet, Long> implements PetService {
+@Profile({"default", "map"})
+public class PetMapService extends AbstractMapService<Pet, Long> implements PetService {
 
 
     @Override
