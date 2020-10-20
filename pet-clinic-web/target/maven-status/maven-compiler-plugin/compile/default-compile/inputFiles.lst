@@ -1,5 +1,8 @@
 /home/henry/projects/pet-clinic/pet-clinic-web/src/main/java/henry/springframework/petclinic/bootstrap/DataLoader.java
 /home/henry/projects/pet-clinic/pet-clinic-web/src/main/java/henry/springframework/petclinic/PetClinicApplication.java
+/home/henry/projects/pet-clinic/pet-clinic-web/src/main/java/henry/springframework/petclinic/formatters/PetTypeFormatter.java
 /home/henry/projects/pet-clinic/pet-clinic-web/src/main/java/henry/springframework/petclinic/controllers/OwnerController.java
 /home/henry/projects/pet-clinic/pet-clinic-web/src/main/java/henry/springframework/petclinic/controllers/IndexController.java
+/home/henry/projects/pet-clinic/pet-clinic-web/src/main/java/henry/springframework/petclinic/controllers/VisitController.java
 /home/henry/projects/pet-clinic/pet-clinic-web/src/main/java/henry/springframework/petclinic/controllers/VetController.java
+/home/henry/projects/pet-clinic/pet-clinic-web/src/main/java/henry/springframework/petclinic/controllers/PetController.java

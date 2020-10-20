@@ -23,6 +23,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
+        <jaxb.version>2.3.0</jaxb.version>
     </properties>
 
     <dependencies>
@@ -32,6 +33,21 @@
             <artifactId>spring-boot-devtools</artifactId>
             <scope>runtime</scope>
             <optional>true</optional>
+        </dependency>
+        <dependency>
+            <groupId>javax.xml.bind</groupId>
+            <artifactId>jaxb-api</artifactId>
+            <version>${jaxb.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.sun.xml.bind</groupId>
+            <artifactId>jaxb-core</artifactId>
+            <version>${jaxb.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.sun.xml.bind</groupId>
+            <artifactId>jaxb-impl</artifactId>
+            <version>${jaxb.version}</version>
         </dependency>
     </dependencies>
 
@@ -57,7 +73,7 @@
     <scm>
         <developerConnection>scm:git:https://kafuuma:#kafuuma1#@github.com/kafuuma/pet-clinic.git</developerConnection>
         <connection>scm:git:https://kafuuma:#kafuuma1#@github.com/kafuuma/pet-clinic.git</connection>
-        <url>scm:git:https://kafuuma:#kafuuma1#github.com/kafuuma/pet-clinic.git</url>
+        <url>scm:git:https://kafuuma:#********#github.com/kafuuma/pet-clinic.git</url>
       <tag>pet-clininc-0.0.1</tag>
   </scm>
 
